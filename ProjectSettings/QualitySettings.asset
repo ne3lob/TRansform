@@ -81,7 +81,7 @@ QualitySettings:
       type: 2}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
-    Android: 0
+    Android: 1
     Lumin: 1
     Nintendo 3DS: 1
     Nintendo Switch: 1
